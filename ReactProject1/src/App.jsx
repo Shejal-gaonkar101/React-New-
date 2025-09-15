@@ -1,12 +1,13 @@
-
-
+import Test from './test.jsx' 
 function App() {
 
 
   return (
-  
-      <h1>Hello Seju kaju here </h1>
-      
+     <>
+     <Test/>
+      <h1>hello India</h1>
+      <p>this is o tag </p>
+      </>
   )
 }
 
